@@ -1,6 +1,6 @@
 ## Overview
 
-TalkHealth is a web application designed to be a lifeline for individuals dealing with Post-Traumatic Stress Disorder (PTSD) created by Srikanth Samy. Unlike conventional social platforms, TalkHealth focuses on providing a safe, moderated environment where users can openly discuss their experiences, challenges, and recovery journeys related to PTSD without the fear of judgment. The platform aims to not only serve as a forum but also as a comprehensive resource, offering various materials and tools aimed at aiding recovery and fostering understanding about the condition.
+TalkHealth is a web application designed to be a lifeline for individuals dealing with Post-Traumatic Stress Disorder (PTSD). Unlike conventional social platforms, TalkHealth focuses on providing a safe, moderated environment where users can openly discuss their experiences, challenges, and recovery journeys related to PTSD without the fear of judgment. The platform aims to not only serve as a forum but also as a comprehensive resource, offering various materials and tools aimed at aiding recovery and fostering understanding about the condition.
 
 ## Features
 
